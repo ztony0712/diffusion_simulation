@@ -29,3 +29,7 @@ The model files are stored in the following path
 /home/nuplan/LeapfrogAV/LED/results/led_augment/models_folder/models
 ```
 model_0120.p is diffusion version and the model_0330.p is no-diffusion version.
+
+## To do
+Try to figure out the problem in gameformer encoder.
+Construct visulization pipline based on nuplan devkit.
